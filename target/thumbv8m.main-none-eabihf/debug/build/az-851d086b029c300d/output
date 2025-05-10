@@ -1,0 +1,6 @@
+$ mkdir -p "/home/ionutz/Dropbox/facultate/an2/FILS/ArchMicroprocessors/lab-2025/target/thumbv8m.main-none-eabihf/debug/build/az-851d086b029c300d/out/try_track_caller"
+$ cd "/home/ionutz/Dropbox/facultate/an2/FILS/ArchMicroprocessors/lab-2025/target/thumbv8m.main-none-eabihf/debug/build/az-851d086b029c300d/out/try_track_caller"
+$ printf '%s' "// try_tra"... > "/home/ionutz/Dropbox/facultate/an2/FILS/ArchMicroprocessors/lab-2025/target/thumbv8m.main-none-eabihf/debug/build/az-851d086b029c300d/out/try_track_caller/try_track_caller.rs"
+$ cd "/home/ionutz/Dropbox/facultate/an2/FILS/ArchMicroprocessors/lab-2025/target/thumbv8m.main-none-eabihf/debug/build/az-851d086b029c300d/out/try_track_caller" && "rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
+cargo:rustc-cfg=track_caller
+$ rm -r "/home/ionutz/Dropbox/facultate/an2/FILS/ArchMicroprocessors/lab-2025/target/thumbv8m.main-none-eabihf/debug/build/az-851d086b029c300d/out/try_track_caller"
