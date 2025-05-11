@@ -37,20 +37,12 @@ async fn main(spawner: Spawner) {
     let mut cs = Output::new(peripherals.PIN_17, Level::High);
     let mut spi = Spi::new(peripherals.SPI0, clk, mosi, miso, peripherals.DMA_CH0, peripherals.DMA_CH1, config);
     
-    let tx_data = [1u8, 2, 3, 4];
-    let mut rx_buf = [0u8; 4];
-
+    let data:  [u8;4] = [1,2,3,4];
     loop {
         cs.set_low();
-        // Full-duplex transfer (required for MISO communication)
-        match spi.transfer(&mut rx_buf, &tx_data).await {
-            Ok(_) => {
-                defmt::info!("Received: {:?}", rx_buf);
-            }
-            Err(e) => defmt::error!("Transfer failed: {:?}", e),
-        }
+        spi.write(&data).await.unwrap();
         cs.set_high();
-        
-        Timer::after_millis(1000).await;
+        info!("Sent data: {:?}", data);
+        Timer::after_secs(1).await;
     }
 }

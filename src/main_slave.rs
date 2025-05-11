@@ -31,26 +31,29 @@ async fn main(spawner: Spawner) {
     config.frequency = 1_000_000;
     config.phase = spi::Phase::CaptureOnFirstTransition;
     config.polarity = spi::Polarity::IdleLow;
+    // config.slave_mode=true;
     let miso = peripherals.PIN_16;
     let mosi = peripherals.PIN_19;
     let clk = peripherals.PIN_18;
     let mut cs = Output::new(peripherals.PIN_17, Level::High);
     let mut spi = Spi::new(peripherals.SPI0, clk, mosi, miso, peripherals.DMA_CH0, peripherals.DMA_CH1, config);
-    
-    let tx_data = [1u8, 2, 3, 4];
-    let mut rx_buf = [0u8; 4];
-
     loop {
-        cs.set_low();
-        // Full-duplex transfer (required for MISO communication)
-        match spi.transfer(&mut rx_buf, &tx_data).await {
-            Ok(_) => {
-                defmt::info!("Received: {:?}", rx_buf);
-            }
-            Err(e) => defmt::error!("Transfer failed: {:?}", e),
-        }
-        cs.set_high();
+        // TX: Command byte + 4 dummy bytes for reading
+        let tx_buf = [0xAAu8, 0x00, 0x00, 0x00, 0x00];  // Replace 0xAA with your sensor's read command
         
-        Timer::after_millis(1000).await;
+        // RX: Buffer to store 5 bytes (command response + 4 data bytes)
+        let mut rx_buf = [0u8; 5];
+        
+        // Perform SPI transfer
+        match spi.transfer(&mut rx_buf, &tx_buf).await {
+            Ok(_) => {
+                // Extract 4 data bytes (ignore first command response byte)
+                let [_, d1, d2, d3, d4] = rx_buf;
+                defmt::info!("Sensor values: [{}, {}, {}, {}]", d1, d2, d3, d4);
+            }
+            Err(e) => defmt::error!("SPI error: {:?}", e),
+        }
+
+        Timer::after_millis(100).await;  // Adjust delay as needed
     }
 }
