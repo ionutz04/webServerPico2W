@@ -1,0 +1,19 @@
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/libcyw43-0d52aab2b9eecf0f.rmeta: /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/lib.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/fmt.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/bus.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/consts.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/control.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/countries.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/events.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/ioctl.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/nvram.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/runner.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/structs.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/util.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/../README.md
+
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/cyw43-0d52aab2b9eecf0f.d: /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/lib.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/fmt.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/bus.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/consts.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/control.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/countries.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/events.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/ioctl.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/nvram.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/runner.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/structs.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/util.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/../README.md
+
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/lib.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/fmt.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/bus.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/consts.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/control.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/countries.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/events.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/ioctl.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/nvram.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/runner.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/structs.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/util.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/cyw43/src/../README.md:
+
+# env-dep:DEFMT_LOG=info

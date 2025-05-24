@@ -1,0 +1,6 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/build/cortex-m-fc2882e285c59bde/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv8m
+cargo:rustc-cfg=armv8m_main
+cargo:rustc-cfg=has_fpu

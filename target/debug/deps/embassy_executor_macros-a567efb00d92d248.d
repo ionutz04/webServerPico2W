@@ -1,0 +1,10 @@
+/home/ionutz/Documents/webServerPico2W/target/debug/deps/libembassy_executor_macros-a567efb00d92d248.so: /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/lib.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/mod.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/main.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/task.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/util.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/../README.md
+
+/home/ionutz/Documents/webServerPico2W/target/debug/deps/embassy_executor_macros-a567efb00d92d248.d: /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/lib.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/mod.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/main.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/task.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/util.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/../README.md
+
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/lib.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/mod.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/main.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/macros/task.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/util.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-executor-macros/src/../README.md:

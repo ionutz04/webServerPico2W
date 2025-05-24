@@ -1,0 +1,10 @@
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/libembedded_nal-7b6267030f45894d.rmeta: /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/lib.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/dns.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/mod.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/share.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/tcp.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/udp.rs
+
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/embedded_nal-7b6267030f45894d.d: /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/lib.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/dns.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/mod.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/share.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/tcp.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/udp.rs
+
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/lib.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/dns.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/mod.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/share.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/tcp.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-0.9.0/src/stack/udp.rs:

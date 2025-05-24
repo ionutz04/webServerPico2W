@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/build/defmt-d6dd9bd7f872681d/out
+cargo:rustc-check-cfg=cfg(c_variadic)
+cargo:rustc-check-cfg=cfg(no_cas)

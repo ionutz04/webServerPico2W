@@ -1,0 +1,10 @@
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/libembedded_hal_async-73884ff0873ef38a.rmeta: /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/lib.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/delay.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/digital.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/i2c.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/spi.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/../README.md
+
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/embedded_hal_async-73884ff0873ef38a.d: /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/lib.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/delay.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/digital.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/i2c.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/spi.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/../README.md
+
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/lib.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/delay.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/digital.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/i2c.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/spi.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-hal-async-1.0.0/src/../README.md:

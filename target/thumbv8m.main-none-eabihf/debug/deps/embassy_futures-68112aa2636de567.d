@@ -1,0 +1,11 @@
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/libembassy_futures-68112aa2636de567.rmeta: /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/lib.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/fmt.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/block_on.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/yield_now.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/join.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/select.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/../README.md
+
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/embassy_futures-68112aa2636de567.d: /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/lib.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/fmt.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/block_on.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/yield_now.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/join.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/select.rs /home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/../README.md
+
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/lib.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/fmt.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/block_on.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/yield_now.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/join.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/select.rs:
+/home/ionutz/.cargo/git/checkouts/embassy-c08a80187403f815/2e7a2b6/embassy-futures/src/../README.md:

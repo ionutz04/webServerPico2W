@@ -1,0 +1,9 @@
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/libembedded_nal_async-341d7939475a48bf.rmeta: /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/lib.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/dns.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/mod.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/tcp.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/udp.rs
+
+/home/ionutz/Documents/webServerPico2W/target/thumbv8m.main-none-eabihf/debug/deps/embedded_nal_async-341d7939475a48bf.d: /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/lib.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/dns.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/mod.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/tcp.rs /home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/udp.rs
+
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/lib.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/dns.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/mod.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/tcp.rs:
+/home/ionutz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-nal-async-0.8.0/src/stack/udp.rs:
